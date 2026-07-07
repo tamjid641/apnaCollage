@@ -6,7 +6,7 @@ class Alif
         Console.WriteLine("Alif Is horny");
     }
 }
-class beforSleep : Alif
+class beforeSleep: Alif
 {
     public void night()
     {
